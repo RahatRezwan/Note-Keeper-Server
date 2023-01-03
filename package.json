@@ -1,0 +1,16 @@
+{
+  "name": "note-keeper-backend",
+  "version": "1.0.0",
+  "description": "This is a note keeping web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kazi Rahat",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0"
+  }
+}
